@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10265" started-at="2021-06-25T08:05:55 IST" finished-at="2021-06-25T08:06:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10265" started-at="2021-06-25T08:05:55 IST" finished-at="2021-06-25T08:06:05 IST">
+      <class name="testCases.LoginTest">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testCases.LoginTest@56aac163]" name="launchbrowser" is-config="true" duration-ms="9345" started-at="2021-06-25T08:05:55 IST" finished-at="2021-06-25T08:06:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testCases.LoginTest@56aac163]" name="init" is-config="true" duration-ms="22" started-at="2021-06-25T08:06:04 IST" finished-at="2021-06-25T08:06:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="TestLogin()[pri:0, instance:testCases.LoginTest@56aac163]" name="TestLogin" duration-ms="140" started-at="2021-06-25T08:06:04 IST" finished-at="2021-06-25T08:06:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:testCases.LoginTest@56aac163]" name="quitBrowser" is-config="true" duration-ms="733" started-at="2021-06-25T08:06:04 IST" finished-at="2021-06-25T08:06:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
